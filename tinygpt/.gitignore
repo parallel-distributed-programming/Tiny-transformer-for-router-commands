@@ -1,0 +1,5 @@
+*.o
+tinygpt
+check
+*.bin
+run_job.sh.o*
